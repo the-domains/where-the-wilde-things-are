@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Where the Wilde Things Are]]></title>
         <description><![CDATA[Where the Wilde Things Are]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/where-the-wilde-things-are/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 03:00:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 03:19:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/where-the-wilde-things-are/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brooklyn's 4th birthday with her new "Doctor Glasses."]]></title>
+            <description><![CDATA[<article><h1>Brooklyn's 4th birthday with her new "Doctor Glasses."</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/403a02a4-3e78-42c9-b2b3-1eb8e6b55bf5.png"></article>]]></description>
+            <link>https://thegrid.ai/where-the-wilde-things-are/brooklyns-4th-birthday-with-her-new-doctor-glasses/index.html</link>
+            <guid isPermaLink="false">72d03eb6-4caf-4d86-9e77-4213ab032d0e</guid>
+            <pubDate>Thu, 14 Jan 2016 03:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7d0cdf7-279b-4641-b640-74b30d3fc83e.jpg">]]></description>
-            <link>undefined56b41d7c-189e-484d-a794-c17a27ecafbd/index.html</link>
+            <link>https://thegrid.ai/where-the-wilde-things-are/56b41d7c-189e-484d-a794-c17a27ecafbd/index.html</link>
             <guid isPermaLink="false">56b41d7c-189e-484d-a794-c17a27ecafbd</guid>
             <pubDate>Thu, 14 Jan 2016 03:00:21 GMT</pubDate>
         </item>
