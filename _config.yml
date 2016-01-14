@@ -1,12 +1,7 @@
+name: Where the Wilde Things Are
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0
+typography_spectrum: 0.2097248113714159
 collections:
   - index:
       path: /
@@ -19,22 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7893839138559997
-  brandStrength: 0.4001074
-  rhythmicContrast: 0.5611824786756188
   brandColors:
     - '#B4BED6'
     - '#302F30'
     - '#7E786F'
     - '#E92639'
     - '#F1F3FB'
+  brandStrength: 0.4375
   lightness: 0.5982982330024242
-typography_spectrum: 0.2097248113714159
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Where the Wilde Things Are
+  saturation: 0.7893839138559997
+  rhythmicContrast: 0.25
+purpose: []
