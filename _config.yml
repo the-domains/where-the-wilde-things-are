@@ -1,4 +1,8 @@
-layout_spectrum: 0.8091785341966897
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.7893839138559997
-  lightness: 0.5982982330024242
   brandStrength: 0.4001074
+  rhythmicContrast: 0.5611824786756188
   brandColors:
     - '#B4BED6'
     - '#302F30'
     - '#7E786F'
     - '#E92639'
     - '#F1F3FB'
-  rhythmicContrast: 0.5611824786756188
+  lightness: 0.5982982330024242
 typography_spectrum: 0.2097248113714159
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Where the Wilde Things Are
