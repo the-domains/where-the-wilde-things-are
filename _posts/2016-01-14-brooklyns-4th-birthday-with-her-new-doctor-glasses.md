@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-01-14T05:29:14.799Z'
+datePublished: '2016-01-14T05:42:12.728Z'
 publisher:
   domain: ''
   name: ''
 title: "Brooklyn's 4th birthday with her new \"Doctor Glasses.\""
-dateModified: '2016-01-14T03:19:22.711Z'
+dateModified: '2016-01-14T05:29:14.799Z'
 sourcePath: _posts/2016-01-14-brooklyns-4th-birthday-with-her-new-doctor-glasses.md
 published: true
 inFeed: true
