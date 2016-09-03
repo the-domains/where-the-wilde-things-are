@@ -1,7 +1,7 @@
 ---
 title: Brooklyn and Daddy's U Tour
-datePublished: '2016-08-31T14:26:45.632Z'
-dateModified: '2016-08-31T14:25:52.641Z'
+datePublished: '2016-08-31T14:26:45.885Z'
+dateModified: '2016-08-31T14:24:43.782Z'
 author: []
 description: ''
 publisher: {}
@@ -15,8 +15,8 @@ _type: MediaObject
 
 ---
 # Brooklyn and Daddy's U Tour
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8e4e4a3-9b5f-4745-b011-c746786350e3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87bb112b-80e1-4fa1-a829-0a3de3052834.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c28040-9ab1-45f7-b152-226a39bec8eb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adf0390a-9ae6-419d-8ebb-48780e7ba14d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/066132d1-d16e-4d8e-8505-1d579bab073c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e40f138-6a10-457c-beb0-94370285eba2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb7d0950-a952-4900-949a-f069411d2ed1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9384a1bb-af81-4cf6-b203-9bb7e6760c3b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aea351bc-01fa-437e-a919-83013717b5b9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b6f483-a89a-43ea-bd3b-3c68805b35c7.jpg)
